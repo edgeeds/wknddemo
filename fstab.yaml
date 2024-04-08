@@ -1,8 +1,2 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1gvl8Sg6u8ZKeBsxDtwBOgnuJkCyL4_I_
-
-folders:
-  /products/: /products/default
-  /adventures/details/: /adventures/details/default
-  /experiments/experiment-adventures-pdp/: /experiments/experiment-adventures-pdp/adventure-pdp-v2
-  /experiments/experiment-pdp/: /experiments/experiment-pdp/pdp-v2
+  /: https://adobe.sharepoint.com/sites/alturaeds/Shared%20Documents/lpbeds/shmehta/f-test-010/website
